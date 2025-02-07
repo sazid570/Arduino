@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/Arduino/Esp32/Home_automation"
+		},
+		{
+			"name": "Home_automation",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
