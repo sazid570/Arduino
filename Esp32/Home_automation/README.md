@@ -22,7 +22,7 @@ SCK --> 22
 3.3v
 
 ## sonar
-echo -->32
+echo -->32  
 trig -->33
 
 
