@@ -25,4 +25,7 @@ SCK --> 22
 echo -->32  
 trig -->33
 
+## Servo
+servo_pin = 4
+
 
