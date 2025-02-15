@@ -17,8 +17,8 @@ in 3 --> 14
 in 4 --> 13
 
 ## oled screen
-SDA --> 21
-SCK --> 22
+SDA --> 21  
+SCK --> 22  
 3.3v
 
 ## sonar
