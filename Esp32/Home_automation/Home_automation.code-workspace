@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "8266_test",
+			"path": "../8266_test"
+		}
+	],
+	"settings": {}
+}
