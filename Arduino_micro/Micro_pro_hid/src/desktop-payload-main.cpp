@@ -1,3 +1,5 @@
+//this code works when there is payload downloaded in the desktop and the name of the payload is reverse.vbs
+
 // #include <Arduino.h>
 
 // #include <Keyboard.h>
